@@ -23,5 +23,24 @@ Provides better parking management
 ## Future Scope
 The system can be enhanced by integrating IoT sensors, mobile applications, online payment facilities, and AI-based parking predictions. It can also support smart city initiatives.
 
+===== SMART PARKING SYSTEM =====
+1. Park Vehicle
+2. Remove Vehicle
+3. Check Parking Status
+4. Exit
+
+Enter your choice: 1
+Enter Vehicle Number: AP39AB1234
+Vehicle parked successfully.
+
+Enter your choice: 3
+
+----- Parking Status -----
+Total Slots      : 10
+Occupied Slots   : 1
+Available Slots  : 9
+Parked Vehicles  : ['AP39AB1234']
+
+
 ## Conclusion
 The Smart Parking System is an effective solution for modern parking management. It improves efficiency, reduces congestion, and provides a convenient parking experience for users and administrators.
