@@ -23,6 +23,8 @@ Provides better parking management
 ## Future Scope
 The system can be enhanced by integrating IoT sensors, mobile applications, online payment facilities, and AI-based parking predictions. It can also support smart city initiatives.
 
+## Sample Output
+
 ===== SMART PARKING SYSTEM =====
 1. Park Vehicle
 2. Remove Vehicle
